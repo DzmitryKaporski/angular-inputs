@@ -1,0 +1,14 @@
+<div class="wrap">
+  <h3>Personal data:</h3>
+  <div>Name: {{ personName }}</div>
+  <div>Age: {{ personAgeValue }}</div>
+  <div>
+    Change age:
+    <button type="button" (click)="decrement()">
+      Age -{{ personAgeStep }}
+    </button>
+    <button type="button" (click)="increment()">
+      Age +{{ personAgeStep }}
+    </button>
+  </div>
+</div>

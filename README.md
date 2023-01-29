@@ -1,8 +1,4 @@
-# Task: Pass state from with input.
-
 # Deploy: [angular-inputs](https://angular-inputs.surge.sh/)
-
-# AngularInputs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
 
